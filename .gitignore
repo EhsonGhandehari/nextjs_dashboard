@@ -1,0 +1,7 @@
+
+# Folders
+.next
+node_modules
+
+#files
+pnpm-lock.yaml

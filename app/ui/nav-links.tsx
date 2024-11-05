@@ -12,7 +12,7 @@ import clsx from "clsx";
 // ...
 
 export default function NavLinks() {
-  const pathname = usePathname();
+  const links = usePathname();
 
   return (
     <>
