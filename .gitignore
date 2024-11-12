@@ -5,3 +5,5 @@ node_modules
 
 #files
 pnpm-lock.yaml
+.env
+package.json
